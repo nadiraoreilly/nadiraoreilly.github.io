@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+    color:green;
+}
+#page-wrap{
+    width: 800px;
+    margin: 0 auto;
+}
+img{
+    width: 100%;
+    height: auto;
+}
